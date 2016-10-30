@@ -1,11 +1,13 @@
-var data = [
+[
   {
     "Date": "11/1/2016",
     "Start Time": "9:30 AM",
     "End Time": "10:58 AM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Window Horses",
-    "Reference": 88
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 88
   },
   {
     "Date": "11/1/2016",
@@ -13,7 +15,9 @@ var data = [
     "End Time": "1:24 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Marguerite",
-    "Reference": 129
+    "Year": "2015",
+    "Rating": "R",
+    "Run Time": 129
   },
   {
     "Date": "11/1/2016",
@@ -21,7 +25,9 @@ var data = [
     "End Time": "3:20 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Land of Mine",
-    "Reference": 100
+    "Year": "2016",
+    "Rating": "R",
+    "Run Time": 100
   },
   {
     "Date": "11/1/2016",
@@ -29,7 +35,9 @@ var data = [
     "End Time": "5:19 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Genius",
-    "Reference": 104
+     "Year": "2016",
+    "Rating": "PG-13",
+    "Run Time": 104
   },
   {
     "Date": "11/1/2016",
@@ -37,7 +45,9 @@ var data = [
     "End Time": "",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Maudie",
-    "Reference": 115
+    "Year": "2016",
+    "Rating": "PG",
+    "Run Time": 115
   },
   {
     "Date": "11/1/2016",
@@ -45,7 +55,9 @@ var data = [
     "End Time": "10:14 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Southside With You",
-    "Reference": 84
+    "Year": "2016",
+    "Rating": "PG-13",
+    "Run Time": 84
   },
   {
     "Date": "11/1/2016",
@@ -53,7 +65,9 @@ var data = [
     "End Time": "12:15 AM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Personal Shopper",
-    "Reference": 105
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 105
   },
   {
     "Date": "11/4/2016",
@@ -61,7 +75,9 @@ var data = [
     "End Time": "10:52 AM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Things To Come",
-    "Reference": 102
+    "Year": "2016",
+    "Rating": "PG",
+    "Run Time": 102
   },
   {
     "Date": "11/4/2016",
@@ -69,7 +85,9 @@ var data = [
     "End Time": "12:55 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "The Meddler",
-    "Reference": 100
+    "Year": "2015",
+    "Rating": "PG-13",
+    "Run Time": 100
   },
   {
     "Date": "11/4/2016",
@@ -77,7 +95,9 @@ var data = [
     "End Time": "3:10 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Land of Mine",
-    "Reference": 100
+    "Year": "2016",
+    "Rating": "R",
+    "Run Time": 100
   },
   {
     "Date": "11/4/2016",
@@ -85,7 +105,9 @@ var data = [
     "End Time": "5:03 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Unless",
-    "Reference": 93
+    "Year": "2016",
+    "Rating": "14-A",
+    "Run Time": 93
   },
   {
     "Date": "11/4/2016",
@@ -93,7 +115,9 @@ var data = [
     "End Time": "7:28 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "The Dressmaker",
-    "Reference": 118
+    "Year": "2015",
+    "Rating": "14-A",
+    "Run Time": 118
   },
   {
     "Date": "11/4/2016",
@@ -101,7 +125,9 @@ var data = [
     "End Time": "9:51 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "American Pastoral",
-    "Reference": 126
+    "Year": "2016",
+    "Rating": "14-A",
+    "Run Time": 126
   },
   {
     "Date": "11/4/2016",
@@ -109,7 +135,9 @@ var data = [
     "End Time": "12:15 AM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "A Bigger Splash",
-    "Reference": 125
+    "Year": "2015",
+    "Rating": "R",
+    "Run Time": 125
   },
   {
     "Date": "11/5/2016",
@@ -117,7 +145,9 @@ var data = [
     "End Time": "10:58 AM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "The Dressmaker",
-    "Reference": 118
+    "Year": "2015",
+    "Rating": "14-A",
+    "Run Time": 118
   },
   {
     "Date": "11/5/2016",
@@ -125,7 +155,9 @@ var data = [
     "End Time": "12:53 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Maggie's Plan",
-    "Reference": 98
+    "Year": "2015",
+    "Rating": "14-A",
+    "Run Time": 98
   },
   {
     "Date": "11/5/2016",
@@ -133,7 +165,9 @@ var data = [
     "End Time": "4:04 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "The Sound of Music : Sing-A-Long",
-    "Reference": 174
+     "Year": "1965",
+    "Rating": "PG",
+    "Run Time": 174
   },
   {
     "Date": "11/5/2016",
@@ -141,7 +175,9 @@ var data = [
     "End Time": "5:56 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Music of Strangers: Yo Yo Ma",
-    "Reference": 96
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 96
   },
   {
     "Date": "11/5/2016",
@@ -149,7 +185,9 @@ var data = [
     "End Time": "8:26 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "American Pastoral",
-    "Reference": 126
+    "Year": "2016",
+    "Rating": "14-A",
+    "Run Time": 126
   },
   {
     "Date": "11/5/2016",
@@ -157,7 +195,9 @@ var data = [
     "End Time": "10:30 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Personal Shopper",
-    "Reference": 105
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 105
   },
   {
     "Date": "11/5/2016",
@@ -165,7 +205,9 @@ var data = [
     "End Time": "12:24 AM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Trespass Against Us",
-    "Reference": 99
+    "Year": "2016",
+    "Rating": "R",
+    "Run Time": 99
   },
   {
     "Date": "11/6/2016",
@@ -173,7 +215,9 @@ var data = [
     "End Time": "10:45 AM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "The Meddler",
-    "Reference": 100
+    "Year": "2015",
+    "Rating": "PG-13",
+    "Run Time": 100
   },
   {
     "Date": "11/6/2016",
@@ -181,7 +225,9 @@ var data = [
     "End Time": "12:41 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Music of Strangers: Yo Yo Ma",
-    "Reference": 96
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 96
   },
   {
     "Date": "11/6/2016",
@@ -189,7 +235,9 @@ var data = [
     "End Time": "2:44 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Genius",
-    "Reference": 104
+    "Year": "2016",
+    "Rating": "PG-13",
+    "Run Time": 104
   },
   {
     "Date": "11/6/2016",
@@ -197,7 +245,9 @@ var data = [
     "End Time": "5:05 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "A Bigger Splash",
-    "Reference": 125
+    "Year": "2015",
+    "Rating": "R",
+    "Run Time": 125
   },
   {
     "Date": "11/6/2016",
@@ -205,7 +255,9 @@ var data = [
     "End Time": "",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Burn Your Maps",
-    "Reference": 102
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 102
   },
   {
     "Date": "11/6/2016",
@@ -213,7 +265,9 @@ var data = [
     "End Time": "10:36 PM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "American Pastoral",
-    "Reference": 126
+    "Year": "2016",
+    "Rating": "14-A",
+    "Run Time": 126
   },
   {
     "Date": "11/6/2016",
@@ -221,7 +275,9 @@ var data = [
     "End Time": "12:29 AM",
     "Venue": "CHRYSLER THEATRE",
     "Title": "Trespass Against Us",
-    "Reference": 99
+    "Year": "2016",
+    "Rating": "R",
+    "Run Time": 99
   },
   {
     "Date": "11/1/2016",
@@ -229,7 +285,9 @@ var data = [
     "End Time": "10:56 AM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "The Innocents",
-    "Reference": 116
+    "Year": "2016",
+    "Rating": "PG-13",
+    "Run Time": 116
   },
   {
     "Date": "11/1/2016",
@@ -237,7 +295,9 @@ var data = [
     "End Time": "12:59 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Wild Run",
-    "Reference": 109
+    "Year": "2016",
+    "Rating": "G",
+    "Run Time": 109
   },
   {
     "Date": "11/1/2016",
@@ -245,7 +305,9 @@ var data = [
     "End Time": "3:14 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Love & Friendship",
-    "Reference": 94
+    "Year": "2016",
+    "Rating": "PG",
+    "Run Time": 94
   },
   {
     "Date": "11/1/2016",
@@ -253,7 +315,9 @@ var data = [
     "End Time": "5:40 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "The Salesman",
-    "Reference": 125
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 125
   },
   {
     "Date": "11/1/2016",
@@ -261,7 +325,9 @@ var data = [
     "End Time": "7:48 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Our Kind of Traitor",
-    "Reference": 108
+    "Year": "2016",
+    "Rating": "14-A",
+    "Run Time": 108
   },
   {
     "Date": "11/1/2016",
@@ -269,7 +335,9 @@ var data = [
     "End Time": "10:20 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Hello Destroyer",
-    "Reference": 110
+    "Year": "2016",
+    "Rating": "14-A",
+    "Run Time": 110
   },
   {
     "Date": "11/1/2016",
@@ -277,7 +345,9 @@ var data = [
     "End Time": "12:18 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "War On Everyone",
-    "Reference": 98
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 98
   },
   {
     "Date": "11/2/2016",
@@ -285,7 +355,9 @@ var data = [
     "End Time": "10:34 AM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Love & Friendship",
-    "Reference": 94
+    "Year": "2016",
+    "Rating": "PG",
+    "Run Time": 94
   },
   {
     "Date": "11/2/2016",
@@ -293,7 +365,9 @@ var data = [
     "End Time": "12:27 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "The Eagle Huntress",
-    "Reference": 87
+    "Year": "2016",
+    "Rating": "G",
+    "Run Time": 87
   },
   {
     "Date": "11/2/2016",
@@ -301,7 +375,9 @@ var data = [
     "End Time": "2:48 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "The Other Half",
-    "Reference": 103
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 103
   },
   {
     "Date": "11/2/2016",
@@ -309,7 +385,9 @@ var data = [
     "End Time": "5:08 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "The Man Who Knew Infinity",
-    "Reference": 108
+    "Year": "2015",
+    "Rating": "PG-13",
+    "Run Time": 108
   },
   {
     "Date": "11/2/2016",
@@ -317,7 +395,9 @@ var data = [
     "End Time": "7:46 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Manchester by the Sea",
-    "Reference": 136
+    "Year": "2016",
+    "Rating": "14-A",
+    "Run Time": 136
   },
   {
     "Date": "11/2/2016",
@@ -325,7 +405,9 @@ var data = [
     "End Time": "9:31 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "First Monday in May",
-    "Reference": 91
+    "Year": "2016",
+    "Rating": "PG-13",
+    "Run Time": 91
   },
   {
     "Date": "11/2/2016",
@@ -333,7 +415,9 @@ var data = [
     "End Time": "11:11 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Sour Grapes",
-    "Reference": 86
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 86
   },
   {
     "Date": "11/3/2016",
@@ -341,7 +425,9 @@ var data = [
     "End Time": "10:56 AM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "The Innocents",
-    "Reference": 116
+    "Year": "2016",
+    "Rating": "PG-13",
+    "Run Time": 116
   },
   {
     "Date": "11/3/2016",
@@ -349,7 +435,9 @@ var data = [
     "End Time": "1:13 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Last Cab To Darwin",
-    "Reference": 123
+     "Year": "2015",
+    "Rating": "PG",
+    "Run Time": 123
   },
   {
     "Date": "11/3/2016",
@@ -357,7 +445,9 @@ var data = [
     "End Time": "3:14 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "A Perfect Man",
-    "Reference": 104
+    "Year": "2015",
+    "Rating": "NR",
+    "Run Time": 104
   },
   {
     "Date": "11/3/2016",
@@ -365,7 +455,9 @@ var data = [
     "End Time": "5:18 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Neruda",
-    "Reference": 108
+    "Year": "2016",
+    "Rating": "18-A",
+    "Run Time": 108
   },
   {
     "Date": "11/3/2016",
@@ -373,15 +465,19 @@ var data = [
     "End Time": "7:40 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "The Salesman",
-    "Reference": 125
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 125
   },
   {
     "Date": "11/3/2016",
     "Start Time": "8:00 PM",
     "End Time": "9:37 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
-    "Title": "Just the End of the World",
-    "Reference": 97
+    "Title": "It's Only The End of the World",
+    "Year": "2016",
+    "Rating": "14-A",
+    "Run Time": 97
   },
   {
     "Date": "11/3/2016",
@@ -389,7 +485,9 @@ var data = [
     "End Time": "11:53 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Knight of Cups",
-    "Reference": 118
+    "Year": "2015",
+    "Rating": "14-A",
+    "Run Time": 118
   },
   {
     "Date": "11/4/2016",
@@ -397,7 +495,9 @@ var data = [
     "End Time": "10:44 AM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "A Perfect Man",
-    "Reference": 104
+    "Year": "2015",
+    "Rating": "NR",
+    "Run Time": 104
   },
   {
     "Date": "11/4/2016",
@@ -405,7 +505,9 @@ var data = [
     "End Time": "12:51 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Two Lovers And A Bear",
-    "Reference": 96
+    "Year": "2016",
+    "Rating": "14-A",
+    "Run Time": 96
   },
   {
     "Date": "11/4/2016",
@@ -413,7 +515,9 @@ var data = [
     "End Time": "2:52 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Happiest Day In The Life Of Olli Maki",
-    "Reference": 92
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 92
   },
   {
     "Date": "11/4/2016",
@@ -421,7 +525,9 @@ var data = [
     "End Time": "4:59 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Fireworks Wednesday",
-    "Reference": 104
+    "Year": "2006",
+    "Rating": "NR",
+    "Run Time": 104
   },
   {
     "Date": "11/4/2016",
@@ -429,7 +535,9 @@ var data = [
     "End Time": "7:40 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Elle",
-    "Reference": 130
+    "Year": "2015",
+    "Rating": "18-A",
+    "Run Time": 130
   },
   {
     "Date": "11/4/2016",
@@ -437,7 +545,9 @@ var data = [
     "End Time": "9:25 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Little Men",
-    "Reference": 85
+    "Year": "2016",
+    "Rating": "PG",
+    "Run Time": 85
   },
   {
     "Date": "11/4/2016",
@@ -445,7 +555,9 @@ var data = [
     "End Time": "11:48 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Paterson",
-    "Reference": 113
+    "Year": "2016",
+    "Rating": "PG",
+    "Run Time": 113
   },
   {
     "Date": "11/4/2016",
@@ -453,7 +565,9 @@ var data = [
     "End Time": "1:28 AM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Space Jam",
-    "Reference": 88
+    "Year": "1996",
+    "Rating": "PG",
+    "Run Time": 88
   },
   {
     "Date": "11/5/2016",
@@ -461,15 +575,19 @@ var data = [
     "End Time": "10:48 AM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Bad Seeds",
-    "Reference": 108
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 108
   },
   {
     "Date": "11/5/2016",
     "Start Time": "11:10 AM",
     "End Time": "12:47 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
-    "Title": "Just the End of the World",
-    "Reference": 97
+    "Title": "It's Only the End of the World",
+    "Year": "2016",
+    "Rating": "14-A",
+    "Run Time": 97
   },
   {
     "Date": "11/5/2016",
@@ -477,7 +595,9 @@ var data = [
     "End Time": "3:36 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Manchester by the Sea",
-    "Reference": 136
+    "Year": "2016",
+    "Rating": "14-A",
+    "Run Time": 136
   },
   {
     "Date": "11/5/2016",
@@ -485,7 +605,9 @@ var data = [
     "End Time": "5:35 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "I, Daniel Blake",
-    "Reference": 100
+    "Year": "2016",
+    "Rating": "PG",
+    "Run Time": 100
   },
   {
     "Date": "11/5/2016",
@@ -493,7 +615,9 @@ var data = [
     "End Time": "8:20 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Elle",
-    "Reference": 130
+    "Year": "2015",
+    "Rating": "18-A",
+    "Run Time": 130
   },
   {
     "Date": "11/5/2016",
@@ -501,7 +625,9 @@ var data = [
     "End Time": "10:15 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Equity",
-    "Reference": 100
+    "Year": "2016",
+    "Rating": "14-A",
+    "Run Time": 100
   },
   {
     "Date": "11/5/2016",
@@ -509,7 +635,9 @@ var data = [
     "End Time": "12:08 AM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "War On Everyone",
-    "Reference": 98
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 98
   },
   {
     "Date": "11/5/2016",
@@ -517,7 +645,9 @@ var data = [
     "End Time": "2:11 AM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "The Girl With All The Gifts",
-    "Reference": 111
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 111
   },
   {
     "Date": "11/6/2016",
@@ -525,7 +655,9 @@ var data = [
     "End Time": "8:47 AM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "The Eagle Huntress",
-    "Reference": 87
+    "Year": "2016",
+    "Rating": "G",
+    "Run Time": 87
   },
   {
     "Date": "11/6/2016",
@@ -533,7 +665,9 @@ var data = [
     "End Time": "10:40 AM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "I, Daniel Blake",
-    "Reference": 100
+    "Year": "2016",
+    "Rating": "PG",
+    "Run Time": 100
   },
   {
     "Date": "11/6/2016",
@@ -541,7 +675,9 @@ var data = [
     "End Time": "12:31 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "First Monday in May",
-    "Reference": 91
+    "Year": "2016",
+    "Rating": "PG-13",
+    "Run Time": 91
   },
   {
     "Date": "11/6/2016",
@@ -549,7 +685,9 @@ var data = [
     "End Time": "2:25 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Migrant Dreams",
-    "Reference": 90
+    "Year": "2016",
+    "Rating": "G",
+    "Run Time": 90
   },
   {
     "Date": "11/6/2016",
@@ -557,7 +695,9 @@ var data = [
     "End Time": "5:36 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Manchester by the Sea",
-    "Reference": 136
+    "Year": "2016",
+    "Rating": "14-A",
+    "Run Time": 136
   },
   {
     "Date": "11/6/2016",
@@ -565,7 +705,9 @@ var data = [
     "End Time": "7:45 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Christine",
-    "Reference": 115
+    "Year": "2015",
+    "Rating": "R",
+    "Run Time": 115
   },
   {
     "Date": "11/6/2016",
@@ -573,7 +715,9 @@ var data = [
     "End Time": "10:03 PM",
     "Venue": "CAPITOL THEATRE (PENTASTAR)",
     "Title": "Our Kind of Traitor",
-    "Reference": 108
+    "Year": "2016",
+    "Rating": "14-A",
+    "Run Time": 108
   },
   {
     "Date": "11/1/2016",
@@ -581,7 +725,9 @@ var data = [
     "End Time": "10:45 AM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "The Idol",
-    "Reference": 100
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 100
   },
   {
     "Date": "11/1/2016",
@@ -589,7 +735,9 @@ var data = [
     "End Time": "12:45 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "The Idol",
-    "Reference": 100
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 100
   },
   {
     "Date": "11/1/2016",
@@ -597,7 +745,9 @@ var data = [
     "End Time": "2:54 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Driving with Selvi",
-    "Reference": 74
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 74
   },
   {
     "Date": "11/1/2016",
@@ -605,7 +755,9 @@ var data = [
     "End Time": "5:00 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Where The Universe Sings",
-    "Reference": 90
+     "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 90
   },
   {
     "Date": "11/1/2016",
@@ -613,7 +765,9 @@ var data = [
     "End Time": "7:15 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Where The Universe Sings",
-    "Reference": 90
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 90
   },
   {
     "Date": "11/1/2016",
@@ -621,7 +775,9 @@ var data = [
     "End Time": "9:45 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "A Second Chance",
-    "Reference": 105
+    "Year": "2014",
+    "Rating": "NR",
+    "Run Time": 105
   },
   {
     "Date": "11/1/2016",
@@ -629,7 +785,9 @@ var data = [
     "End Time": "11:40 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "A Second Chance",
-    "Reference": 105
+    "Year": "2014",
+    "Rating": "NR",
+    "Run Time": 105
   },
   {
     "Date": "11/2/2016",
@@ -637,7 +795,9 @@ var data = [
     "End Time": "10:14 AM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Driving with Selvi",
-    "Reference": 74
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 74
   },
   {
     "Date": "11/2/2016",
@@ -645,7 +805,9 @@ var data = [
     "End Time": "12:56 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "A Man Called Ove",
-    "Reference": 116
+    "Year": "2015",
+    "Rating": "PG-13",
+    "Run Time": 116
   },
   {
     "Date": "11/2/2016",
@@ -653,7 +815,9 @@ var data = [
     "End Time": "3:06 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "A Man Called Ove",
-    "Reference": 116
+    "Year": "2015",
+    "Rating": "PG-13",
+    "Run Time": 116
   },
   {
     "Date": "11/2/2016",
@@ -661,7 +825,9 @@ var data = [
     "End Time": "5:15 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Summertime",
-    "Reference": 105
+    "Year": "2015",
+    "Rating": "14-A",
+    "Run Time": 105
   },
   {
     "Date": "11/2/2016",
@@ -669,7 +835,9 @@ var data = [
     "End Time": "7:45 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Summertime",
-    "Reference": 105
+    "Year": "2015",
+    "Rating": "14-A",
+    "Run Time": 105
   },
   {
     "Date": "11/2/2016",
@@ -677,7 +845,7 @@ var data = [
     "End Time": "10:00 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "WIFF Live Read: Reservoir Dogs",
-    "Reference": 120
+    "Run Time": 120
   },
   {
     "Date": "11/2/2016",
@@ -685,7 +853,7 @@ var data = [
     "End Time": "12:20 AM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "WIFF Live Read: Juno",
-    "Reference": 120
+    "Run Time": 120
   },
   {
     "Date": "11/3/2016",
@@ -693,7 +861,9 @@ var data = [
     "End Time": "10:41 AM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Koneline: Our Land Beautiful",
-    "Reference": 96
+     "Year": "2015",
+    "Rating": "PG",
+    "Run Time": 96
   },
   {
     "Date": "11/3/2016",
@@ -701,7 +871,9 @@ var data = [
     "End Time": "12:46 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Koneline: Our Land Beautiful",
-    "Reference": 96
+    "Year": "2015",
+    "Rating": "PG",
+    "Run Time": 96
   },
   {
     "Date": "11/3/2016",
@@ -709,7 +881,9 @@ var data = [
     "End Time": "3:23 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "My King",
-    "Reference": 128
+    "Year": "2015",
+    "Rating": "R",
+    "Run Time": 128
   },
   {
     "Date": "11/3/2016",
@@ -717,7 +891,9 @@ var data = [
     "End Time": "5:38 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "My King",
-    "Reference": 128
+    "Year": "2015",
+    "Rating": "R",
+    "Run Time": 128
   },
   {
     "Date": "11/3/2016",
@@ -725,7 +901,9 @@ var data = [
     "End Time": "7:48 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "9: Le Film",
-    "Reference": 98
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 98
   },
   {
     "Date": "11/3/2016",
@@ -733,7 +911,9 @@ var data = [
     "End Time": "9:36 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Spirit Unforgettable",
-    "Reference": 86
+    "Year": "2016",
+    "Rating": "PG",
+    "Run Time": 86
   },
   {
     "Date": "11/3/2016",
@@ -741,7 +921,9 @@ var data = [
     "End Time": "11:09 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Spirit Unforgettable",
-    "Reference": 86
+    "Year": "2016",
+    "Rating": "PG",
+    "Run Time": 86
   },
   {
     "Date": "11/4/2016",
@@ -749,7 +931,9 @@ var data = [
     "End Time": "8:55 AM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "The Armor of Light",
-    "Reference": 90
+    "Year": "2015",
+    "Rating": "PG-13",
+    "Run Time": 90
   },
   {
     "Date": "11/4/2016",
@@ -757,7 +941,9 @@ var data = [
     "End Time": "11:11 AM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Network",
-    "Reference": 121
+    "Year": "1976",
+    "Rating": "R",
+    "Run Time": 121
   },
   {
     "Date": "11/4/2016",
@@ -765,7 +951,9 @@ var data = [
     "End Time": "12:57 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Unlocking The Cage",
-    "Reference": 92
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 92
   },
   {
     "Date": "11/4/2016",
@@ -773,7 +961,9 @@ var data = [
     "End Time": "2:52 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Unlocking The Cage",
-    "Reference": 92
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 92
   },
   {
     "Date": "11/4/2016",
@@ -781,7 +971,9 @@ var data = [
     "End Time": "4:39 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Celtic Soul",
-    "Reference": 84
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 84
   },
   {
     "Date": "11/4/2016",
@@ -789,7 +981,9 @@ var data = [
     "End Time": "6:49 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Celtic Soul",
-    "Reference": 84
+     "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 84
   },
   {
     "Date": "11/4/2016",
@@ -797,7 +991,9 @@ var data = [
     "End Time": "9:31 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Into The Forest",
-    "Reference": 101
+    "Year": "2015",
+    "Rating": "14-A",
+    "Run Time": 101
   },
   {
     "Date": "11/4/2016",
@@ -805,7 +1001,9 @@ var data = [
     "End Time": "11:21 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Into The Forest",
-    "Reference": 101
+        "Year": "2015",
+    "Rating": "14-A",
+    "Run Time": 101
   },
   {
     "Date": "11/4/2016",
@@ -813,7 +1011,9 @@ var data = [
     "End Time": "1:22 AM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Mean Girls",
-    "Reference": 97
+    "Year": "2004",
+    "Rating": "PG-13",
+    "Run Time": 97
   },
   {
     "Date": "11/5/2016",
@@ -821,7 +1021,9 @@ var data = [
     "End Time": "10:53 AM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "The Brand New Testament",
-    "Reference": 113
+    "Year": "2015",
+    "Rating": "NR",
+    "Run Time": 113
   },
   {
     "Date": "11/5/2016",
@@ -829,7 +1031,9 @@ var data = [
     "End Time": "12:58 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "The Brand New Testament",
-    "Reference": 113
+        "Year": "2015",
+    "Rating": "NR",
+    "Run Time": 113
   },
   {
     "Date": "11/5/2016",
@@ -837,7 +1041,9 @@ var data = [
     "End Time": "2:58 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Roger D'Astous",
-    "Reference": 103
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 103
   },
   {
     "Date": "11/5/2016",
@@ -845,7 +1051,9 @@ var data = [
     "End Time": "5:06 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Quo Vado?",
-    "Reference": 86
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 86
   },
   {
     "Date": "11/5/2016",
@@ -853,7 +1061,9 @@ var data = [
     "End Time": "6:41 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Quo Vado?",
-    "Reference": 86
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 86
   },
   {
     "Date": "11/5/2016",
@@ -861,7 +1071,10 @@ var data = [
     "End Time": "8:21 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Quo Vado?",
-    "Reference": 86
+     "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 86
+    
   },
   {
     "Date": "11/5/2016",
@@ -869,7 +1082,9 @@ var data = [
     "End Time": "10:12 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "King Cobra",
-    "Reference": 92
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 92
   },
   {
     "Date": "11/5/2016",
@@ -877,7 +1092,9 @@ var data = [
     "End Time": "11:52 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "King Cobra",
-    "Reference": 92
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 92
   },
   {
     "Date": "11/6/2016",
@@ -885,7 +1102,9 @@ var data = [
     "End Time": "10:30 AM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Sonita",
-    "Reference": 90
+     "Year": "2015",
+    "Rating": "NR",
+    "Run Time": 90
   },
   {
     "Date": "11/6/2016",
@@ -893,7 +1112,9 @@ var data = [
     "End Time": "12:25 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Sonita",
-    "Reference": 90
+    "Year": "2015",
+    "Rating": "NR",
+    "Run Time": 90
   },
   {
     "Date": "11/6/2016",
@@ -901,7 +1122,9 @@ var data = [
     "End Time": "3:45 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "We Can't Make the Same Mistake Twice",
-    "Reference": 165
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 165
   },
   {
     "Date": "11/6/2016",
@@ -909,7 +1132,9 @@ var data = [
     "End Time": "6:17 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "The Beatles: 8 Days A Week",
-    "Reference": 137
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 137
   },
   {
     "Date": "11/6/2016",
@@ -917,7 +1142,9 @@ var data = [
     "End Time": "8:42 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "The Beatles: 8 Days A Week",
-    "Reference": 137
+    "Year": "2016",
+    "Rating": "NR",
+    "Run Time": 137
   },
   {
     "Date": "11/6/2016",
@@ -925,6 +1152,472 @@ var data = [
     "End Time": "10:05 PM",
     "Venue": "CAPITOL THEATRE (JOY)",
     "Title": "Memoria",
-    "Reference": 70
+    "Year": "2015",
+    "Rating": "R",
+    "Run Time": 70
+  },
+  {
+    "Date": "11/1/2016",
+    "Start Time": "9:00 AM",
+    "End Time": "10:51 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Ma Ma",
+    "Year": "2015",
+    "Rating": "R",
+    "Runtime": 111
+  },
+  {
+    "Date": "11/1/2016",
+    "Start Time": "11:10 AM",
+    "End Time": "1:02 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "The Intouchables",
+    "Year": "2011",
+    "Rating": "14-A",
+    "Runtime": 112
+  },
+  {
+    "Date": "11/1/2016",
+    "Start Time": "1:35 PM",
+    "End Time": "3:08 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Natasha",
+    "Year": "2015",
+    "Rating": "18-A",
+    "Runtime": 93
+  },
+  {
+    "Date": "11/1/2016",
+    "Start Time": "3:20 PM",
+    "End Time": "5:10 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Gleason",
+    "Year": "2016",
+    "Rating": "14-A",
+    "Runtime": 110
+  },
+  {
+    "Date": "11/1/2016",
+    "Start Time": "6:00 PM",
+    "End Time": "7:48 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Ice Guardians",
+    "Year": "2016",
+    "Rating": "PG",
+    "Runtime": 108
+  },
+  {
+    "Date": "11/1/2016",
+    "Start Time": "8:30 PM",
+    "End Time": "9:55 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Things To Do",
+    "Year": "2006",
+    "Rating": "NR",
+    "Runtime": 85
+  },
+  {
+    "Date": "11/1/2016",
+    "Start Time": "10:30 PM",
+    "End Time": "12:15 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "WIFF Local Shorts",
+    "Runtime": 105
+  },
+  {
+    "Date": "11/2/2016",
+    "Start Time": "9:00 AM",
+    "End Time": "10:32 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Life, Animated",
+    "Year": "2016",
+    "Rating": "PG",
+    "Runtime": 92
+  },
+  {
+    "Date": "11/2/2016",
+    "Start Time": "10:55 AM",
+    "End Time": "12:50 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Angry Indian Goddesses",
+    "Year": "2015",
+    "Rating": "14-A",
+    "Runtime": 115
+  },
+  {
+    "Date": "11/2/2016",
+    "Start Time": "1:05 PM",
+    "End Time": "3:05 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Standing Tall",
+    "Year": "2015",
+    "Rating": "R",
+    "Runtime": 120
+  },
+  {
+    "Date": "11/2/2016",
+    "Start Time": "3:20 PM",
+    "End Time": "4:59 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Julieta",
+    "Year": "2015",
+    "Rating": "14-A",
+    "Runtime": 99
+  },
+  {
+    "Date": "11/2/2016",
+    "Start Time": "6:00 PM",
+    "End Time": "7:40 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "WIFF Live Doc",
+    "Runtime": 100
+  },
+  {
+    "Date": "11/2/2016",
+    "Start Time": "8:00 PM",
+    "End Time": "9:41 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Hunt For The Wilderpeople",
+    "Year": "2016",
+    "Rating": "PG-13",
+    "Runtime": 101
+  },
+  {
+    "Date": "11/2/2016",
+    "Start Time": "10:00 PM",
+    "End Time": "11:48 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Mean Dreams",
+    "Year": "2016",
+    "Rating": "NR",
+    "Runtime": 108
+  },
+  {
+    "Date": "11/3/2016",
+    "Start Time": "9:00 AM",
+    "End Time": "10:42 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "The Rehearsal",
+    "Year": "2016",
+    "Rating": "NR",
+    "Runtime": 102
+  },
+  {
+    "Date": "11/3/2016",
+    "Start Time": "11:05 AM",
+    "End Time": "12:49 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "The Apology",
+    "Year": "2016",
+    "Rating": "14-A",
+    "Runtime": 104
+  },
+  {
+    "Date": "11/3/2016",
+    "Start Time": "1:30 PM",
+    "End Time": "3:03 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Eat That Question: Frank Zappa",
+    "Year": "2016",
+    "Rating": "R",
+    "Runtime": 93
+  },
+  {
+    "Date": "11/3/2016",
+    "Start Time": "3:20 PM",
+    "End Time": "6:02 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Toni Erdmann",
+    "Year": "2016",
+    "Rating": "14-A",
+    "Runtime": 162
+  },
+  {
+    "Date": "11/3/2016",
+    "Start Time": "6:20 PM",
+    "End Time": "7:45 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "A New Economy",
+    "Year": "2016",
+    "Rating": "NR",
+    "Runtime": 85
+  },
+  {
+    "Date": "11/3/2016",
+    "Start Time": "8:20 PM",
+    "End Time": "9:56 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "How to Prepare For Prison",
+    "Year": "2016",
+    "Rating": "NR",
+    "Runtime": 96
+  },
+  {
+    "Date": "11/3/2016",
+    "Start Time": "10:30 PM",
+    "End Time": "12:10 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "WIFF 48 HR Flick Fest",
+    "Runtime": 100
+  },
+  {
+    "Date": "11/4/2016",
+    "Start Time": "7:25 AM",
+    "End Time": "8:55 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Black Code",
+    "Year": "2016",
+    "Rating": "NR",
+    "Runtime": 90
+  },
+  {
+    "Date": "11/4/2016",
+    "Start Time": "9:10 AM",
+    "End Time": "11:09 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Johnnie To's Office",
+    "Year": "2015",
+    "Rating": "PG",
+    "Runtime": 119
+  },
+  {
+    "Date": "11/4/2016",
+    "Start Time": "11:25 AM",
+    "End Time": "1:16 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Ma Ma",
+    "Year": "2015",
+    "Rating": "R",
+    "Runtime": 111
+  },
+  {
+    "Date": "11/4/2016",
+    "Start Time": "1:30 PM",
+    "End Time": "3:11 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Hunt For The Wilderpeople",
+    "Year": "2016",
+    "Rating": "PG-13",
+    "Runtime": 101
+  },
+  {
+    "Date": "11/4/2016",
+    "Start Time": "3:25 PM",
+    "End Time": "5:21 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "A Man Called Ove",
+    "Year": "2015",
+    "Rating": "PG-13",
+    "Runtime": 116
+  },
+  {
+    "Date": "11/4/2016",
+    "Start Time": "5:50 PM",
+    "End Time": "7:25 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "The Architect",
+    "Year": "2016",
+    "Rating": "NR",
+    "Runtime": 95
+  },
+  {
+    "Date": "11/4/2016",
+    "Start Time": "7:45 PM",
+    "End Time": "9:15 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Closet Monster",
+        "Year": "2015",
+    "Rating": "14-A",
+    "Runtime": 90
+  },
+  {
+    "Date": "11/4/2016",
+    "Start Time": "10:00 PM",
+    "End Time": "11:32 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Tickled",
+    "Year": "2016",
+    "Rating": "PG",
+    "Runtime": 92
+  },
+  {
+    "Date": "11/4/2016",
+    "Start Time": "11:50 PM",
+    "End Time": "1:33 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": 31,
+     "Year": "2016",
+    "Rating": "14-A",
+    "Runtime": 103
+  },
+  {
+    "Date": "11/5/2016",
+    "Start Time": "7:20 AM",
+    "End Time": "8:56 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Koneline: Our Land is Beautiful",
+    "Year": "2015",
+    "Rating": "PG",
+    "Runtime": 96
+  },
+  {
+    "Date": "11/5/2016",
+    "Start Time": "9:10 AM",
+    "End Time": "10:56 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "How to Prepare for Prison",
+    "Year": "2016",
+    "Rating": "NR",
+    "Runtime": 96
+  },
+  {
+    "Date": "11/5/2016",
+    "Start Time": "11:25 AM",
+    "End Time": "1:13 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Ice Guardians",
+    "Year": "2016",
+    "Rating": "PG",
+    "Runtime": 108
+  },
+  {
+    "Date": "11/5/2016",
+    "Start Time": "1:40 PM",
+    "End Time": "3:24 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "The Apology",
+    "Year": "2016",
+    "Rating": "14-A",
+    "Runtime": 104
+  },
+  {
+    "Date": "11/5/2016",
+    "Start Time": "3:50 PM",
+    "End Time": "5:22 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Life, Animated",
+    "Year": "2016",
+    "Rating": "PG",
+    "Runtime": 92
+  },
+  {
+    "Date": "11/5/2016",
+    "Start Time": "6:10 PM",
+    "End Time": "8:00 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Indignation",
+    "Year": "2016",
+    "Rating": "14-A",
+    "Runtime": 110
+  },
+  {
+    "Date": "11/5/2016",
+    "Start Time": "8:20 PM",
+    "End Time": "10:20 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Standing Tall",
+    "Year": "2015",
+    "Rating": "R",
+    "Runtime": 120
+  },
+  {
+    "Date": "11/5/2016",
+    "Start Time": "10:35 PM",
+    "End Time": "12:06 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Morris From America",
+    "Year": "2016",
+    "Rating": "14-A",
+    "Runtime": 91
+  },
+  {
+    "Date": "11/5/2016",
+    "Start Time": "12:20 AM",
+    "End Time": "1:59 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "The Room",
+    "Year": "2003",
+    "Rating": "14-A",
+    "Runtime": 99
+  },
+  {
+    "Date": "11/6/2016",
+    "Start Time": "7:20 AM",
+    "End Time": "8:53 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Natasha",
+    "Year": "2015",
+    "Rating": "18-A",
+    "Runtime": 93
+  },
+  {
+    "Date": "11/6/2016",
+    "Start Time": "9:15 AM",
+    "End Time": "10:40 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Angry Inuk",
+    "Year": "2016",
+    "Rating": "PG",
+    "Runtime": 85
+  },
+  {
+    "Date": "11/6/2016",
+    "Start Time": "11:10 AM",
+    "End Time": "12:49 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Julieta",
+    "Year": "2015",
+    "Rating": "14-A",
+    "Runtime": 99
+  },
+  {
+    "Date": "11/6/2016",
+    "Start Time": "1:15 PM",
+    "End Time": "3:57 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Toni Erdmann",
+    "Year": "2016",
+    "Rating": "14-A",
+    "Runtime": 162
+  },
+  {
+    "Date": "11/6/2016",
+    "Start Time": "4:15 PM",
+    "End Time": "5:52 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Department Q: The Keeper of Lost Causes",
+    "Year": "2013",
+    "Rating": "NR",
+    "Runtime": 97
+  },
+  {
+    "Date": "11/6/2016",
+    "Start Time": "6:20 PM",
+    "End Time": "8:21 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Department Q: The Absent One",
+    "Year": "2014",
+    "Rating": "NR",
+    "Runtime": 121
+  },
+  {
+    "Date": "11/6/2016",
+    "Start Time": "8:40 PM",
+    "End Time": "10:32 PM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Department Q: A Conspiracy of Faith",
+    "Year": "2016",
+    "Rating": "NR",
+    "Runtime": 112
+  },
+  {
+    "Date": "11/6/2016",
+    "Start Time": "10:50 PM",
+    "End Time": "12:38 AM",
+    "Venue": "CAPITOL THEATRE (KELLY)",
+    "Title": "Gimme Danger",
+    "Year": "2016",
+    "Rating": "14-A",
+    "Runtime": 108
   }
 ]
