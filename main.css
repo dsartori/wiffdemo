@@ -1,0 +1,101 @@
+body {
+  background-color: #BCDBF2;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+body > div {
+  width: 100%;
+  max-width: 800px;
+  margin:50px auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+  padding: 0px;
+}
+
+.item {
+  border: 2px solid #444;
+  margin-top: -2px;
+  padding: 10px;
+  cursor: pointer;
+  display: block;
+  background-color: #ffffff;
+  text-align: center;
+  font-size: 2.5em;
+}
+
+.item a {
+  color: blue;
+}
+.new {
+  display: block;
+  margin-top: 10px;
+}
+
+.new input[type='text'] {
+  width: 260px;
+  height: 22px;
+  border: 2px solid #444;
+}
+
+.new a {
+  font-size: 1.5em;
+  color: blue;
+  text-decoration: none;
+  background-color: #ffffff;
+  border: 2px solid #444;
+  display: block;
+  width: 24px;
+  float: right;
+  text-align: center;
+}
+
+.new a:hover {
+  background-color: #0EB0dd;
+}
+
+.search{
+  float: right;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.8em;
+  color: #dd0000;
+}
+
+
+.search:before {
+  color:red;
+}
+
+.time{
+  float: left;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.8em;
+  color:black;
+}
+
+.item:hover {
+  color: #ffffff;
+}
+
+.item::after:hover{
+  background-color: #dd0000;
+  color: white;
+}
+
+.item:hover {
+  background-color: #0EB0FF;
+  color: white;
+}
+
+.completed {
+  text-decoration: line-through;
+}
